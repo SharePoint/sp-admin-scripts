@@ -1,9 +1,11 @@
 # PowerShell to enable low trust authentication model at on-premises #
 
 ### Summary ###
+
 This document and scripts explain how to setup low trust authentication between your SharePoint 2013/2016 on-premises farm and an Office 365 tenant.
  
 ### Applies to ###
+
 -  SharePoint 2013 on-premises
 -  SharePoint 2016 on-premises
 
@@ -139,4 +141,4 @@ Get-SPWebApplication | ForEach-Object {
 }
 ```
 
-<img src="https://telemetry.sharepointpnp.com/pnp-tools/scripts/SharePoint.LowTrustACS.Configuration" /> 
+<img src="https://telemetry.sharepointpnp.com/sp-admin-scripts/scripts/SharePoint.LowTrustACS.Configuration" /> 

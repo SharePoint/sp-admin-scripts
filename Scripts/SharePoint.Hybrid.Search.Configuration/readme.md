@@ -1,6 +1,7 @@
 # Hybrid Configuration Wizard #
 
 ### Summary ###
+
 This script is for use in configuring an outbound search hybrid experience between SharePoint 2013 Server and SharePoint Online. In preliminary testing this also works with TAP builds of SharePoint 2016. 
 
 See following blog post for additional details
@@ -36,4 +37,4 @@ Version  | Date | Comments
 ## Hybrid Configuration Wizard ##
 Located under the *Documents* folder. Contains similar information as the mentioned blog post.
 
-<img src="https://telemetry.sharepointpnp.com/pnp-tools/scripts/SharePoint.Hybrid.Search.Configuration" /> 
+<img src="https://telemetry.sharepointpnp.com/sp-admin-scripts/scripts/SharePoint.Hybrid.Search.Configuration" /> 

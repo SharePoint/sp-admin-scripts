@@ -156,4 +156,6 @@ Version  | Date | Comments
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
 ----------
 
-### For detailed description of scenarios and steps, please refer to following documentation in the repository.####
+### For detailed description of scenarios and steps, please refer to following documentation in the repository. 
+
+<img src="https://telemetry.sharepointpnp.com/sp-admin-scripts/scripts/SharePoint.Hybrid.CloudSSA.Configuration" /> 
